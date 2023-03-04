@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/04 08:40:46.000.656,=C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/03/04 08:40:46.000.525,=C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/03/04 08:41:37.000.927,C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\raymo\Desktop\C++\GUI-2 Quiz Game\Unit1.fmx</Transaction>
+    <Transaction>2023/03/04 08:41:37.000.927,C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\raymo\Desktop\C++\GUI-2 Quiz Game\Unit1.h</Transaction>
+    <Transaction>2023/03/04 08:41:37.000.927,C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\raymo\Desktop\C++\GUI-2 Quiz Game\Unit1.cpp</Transaction>
+    <Transaction>2023/03/04 08:55:57.000.778,C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\raymo\Desktop\C++\GUI-2 Quiz Game\Project1PCH1.h</Transaction>
+    <Transaction>2023/03/04 08:55:57.000.810,C:\Users\raymo\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\raymo\Desktop\C++\GUI-2 Quiz Game\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
